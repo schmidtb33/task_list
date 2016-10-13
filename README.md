@@ -17,3 +17,4 @@ Execute command
 or run tests
 
 >vendor/bin/phpunit.bat test
+>vendor\bin\phpunit.bat test
